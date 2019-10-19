@@ -37,6 +37,8 @@
     "@storybook/addon-storyshots": "^5.2.4",
     "@storybook/addons": "^5.2.4",
     "@storybook/react": "^5.2.4",
-    "babel-loader": "^8.0.6"
+    "babel-loader": "^8.0.6",
+    "react-test-renderer": "^16.10.2",
+    "require-context.macro": "^1.2.2"
   }
 }
